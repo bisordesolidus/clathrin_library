@@ -1,0 +1,12 @@
+# выходные данные пайплайна (рисунки, отчёты, кэш дуалов)
+runs/
+
+__pycache__/
+*.pyc
+.pytest_cache/
+
+.claude/
+
+CHANGES.md
+PLAN.md
+MODEL.md
