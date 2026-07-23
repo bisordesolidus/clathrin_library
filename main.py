@@ -39,7 +39,7 @@ import volume as vol
 from lattice import Lattice
 
 # все n с разрешёнными Шайном клетками при n<=60 (C60 — по явному запросу)
-SCHEIN_N_DEFAULT = [20, 24, 26, 28, 32, 36, 38, 40, 42, 44, 50]
+SCHEIN_N_DEFAULT = [20, 24, 26, 28, 32, 36, 38, 40, 42, 44, 50, 60]
 CACHE = "runs/cache"
 
 NAMED = {
